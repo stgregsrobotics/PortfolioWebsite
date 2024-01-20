@@ -12,7 +12,8 @@
   "repo": "https://github.com/stgregsrobotics/PortfolioWebsite",
   "resume_url": "",
   "donate_urls": {
-    "paypal": "https://www.studentquickpay.com/cssd/"
+    "paypal": "https://www.studentquickpay.com/cssd/",
+    "patreon": "https://www.studentquickpay.com/cssd/"
   },
   "colors": {
     "light": {
